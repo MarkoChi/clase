@@ -1,0 +1,112 @@
+@charset "utf-8";
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	position: relative;
+}
+.titulo {
+	color: #000000;
+	font-weight: bolder;
+	font-size: 50px;
+	text-decoration: none;
+}
+.primera.caja .sub {
+	color: #FFFFFF;
+	font-weight: bold;	
+}
+
+
+.resaltado {
+	color: #00067B;
+	font-weight: bold;
+	font-size: x-large;
+}
+
+.resaltado {
+	clear: none;
+	float: none;
+	max-height: 100%;
+	max-width: 100%;
+	position: relative;
+	left: 9%;
+	
+}
+
+.dentro {
+	background-color: #A2A2A2;
+	position: relative;
+	left: 0%;
+}
+
+
+.header {
+	font-weight: 900;
+	font-size: 50px;
+}
+
+
+.aside {
+	width: 85%;
+	text-align: center;
+}
+
+
+.section {
+	width: 0%;
+	height: 0%;
+	font-weight: bolder;
+	font-size: 376%;
+}
+
+
+.segundo {
+	font-weight: bolder;	
+}
+
+.parrafo {
+	font-size: large;
+}
+
+img {
+	position: relative;
+	left: 12%;
+}
+
+p {
+	position: relative;
+}
+
+.subtitulo {
+	position: relative;
+	top: -28px;
+}
+
+
+.todo {
+	position: relative;
+	left: 17%;
+}
+
+div {
+	min-width: 1%;
+}
+
+.periodico {
+	width: 21%;
+	position: absolute;
+	background-color: rgba(255,0,4,0.42);
+	height: 21%;
+	font-weight: 900;
+	font-size: xx-large;
+	top: 6%;
+}
+
+
+
+.comilla {
+	color: rgba(7,0,107,1.00);
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 1360%;
+	position: absolute;
+	left: -3%;
+	bottom: 12%;
+}
